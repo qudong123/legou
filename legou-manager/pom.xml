@@ -25,7 +25,6 @@
 		<module>legou-manager-dao</module>
 		<module>legou-manager-interface</module>
 		<module>legou-manager-service</module>
-		<module>legou-manager-web</module>
 	</modules>
 	
 	<!-- 配置tomcat插件 -->
